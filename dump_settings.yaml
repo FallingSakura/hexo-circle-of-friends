@@ -24,13 +24,9 @@ SETTINGS_FRIENDS_LINKS:
   enable: true
   json_api: ''
   list:
-  - - "\u8D30\u7339\u306E\u5C0F\u7A9D"
-    - https://noionion.top/
-    - https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
   - - "Akilar\u306E\u7CD6\u679C\u5C4B"
     - https://akilar.top/
     - https://akilar.top/images/headimage.png
-  - - elizen
-    - https://elizen.me/
-    - https://akilar.top/images/headimage.png
-    - hello.xml
+  - - qhy
+    - https://www.luogu.com.cn/blog/AmUnbrella/
+    - https://falling-sakura1-1316699389.cos.ap-nanjing.myqcloud.com/image/202304280844882.webp
